@@ -1,0 +1,3 @@
+[submodule "colour-palette-frontend"]
+	path = colour-palette-frontend
+	url = https://github.com/askogseide/colour-palette-frontend.git
